@@ -14,3 +14,7 @@ class fish(osakana):
 
 kasago = fish("カサゴ")
 kasago.place()
+
+
+
+
